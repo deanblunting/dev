@@ -1,4 +1,4 @@
 *.DS_Store
 .conda/
 .vscode/
-*dSYM/
+school/basicC/*dSYM/
