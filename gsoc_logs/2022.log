@@ -1,0 +1,409 @@
+
+console.log(jsonData);
+VM56:9 [
+  {
+    "text": "Django Software Foundation"
+  },
+  {
+    "text": "LibreCube Initiative"
+  },
+  {
+    "text": "IOOS"
+  },
+  {
+    "text": "MDAnalysis"
+  },
+  {
+    "text": "Python Software Foundation"
+  },
+  {
+    "text": "Plone Foundation"
+  },
+  {
+    "text": "SymPy"
+  },
+  {
+    "text": "Wagtail"
+  },
+  {
+    "text": "SageMath"
+  },
+  {
+    "text": "RoboComp"
+  },
+  {
+    "text": "Open3D team"
+  },
+  {
+    "text": "Forschungszentrum Jülich"
+  },
+  {
+    "text": "Genome Assembly and Annotation"
+  },
+  {
+    "text": "OpenCV"
+  },
+  {
+    "text": "Metasploit"
+  },
+  {
+    "text": "BRL-CAD"
+  },
+  {
+    "text": "Orcasound"
+  },
+  {
+    "text": "The ns-3 Network Simulator Project"
+  },
+  {
+    "text": "JdeRobot"
+  },
+  {
+    "text": "MBDyn"
+  },
+  {
+    "text": "Submitty"
+  },
+  {
+    "text": "OpenAstronomy"
+  },
+  {
+    "text": "GNU Radio"
+  },
+  {
+    "text": "syslog-ng"
+  },
+  {
+    "text": "GeomScale"
+  },
+  {
+    "text": "MetaCall"
+  },
+  {
+    "text": "The Libreswan Project"
+  },
+  {
+    "text": "Open Food Facts"
+  },
+  {
+    "text": "MoveIt"
+  },
+  {
+    "text": "OSGeo (Open Source Geospatial Foundation)"
+  },
+  {
+    "text": "TARDIS RT Collaboration"
+  },
+  {
+    "text": "Learning Equality"
+  },
+  {
+    "text": "RTEMS Project"
+  },
+  {
+    "text": "Open Bioinformatics Foundation (OBF)"
+  },
+  {
+    "text": "AboutCode"
+  },
+  {
+    "text": "Academy Software Foundation"
+  },
+  {
+    "text": "AOSSIE"
+  },
+  {
+    "text": "Apertus Association"
+  },
+  {
+    "text": "ArduPilot"
+  },
+  {
+    "text": "Blender Foundation"
+  },
+  {
+    "text": "Center for Translational Data Science"
+  },
+  {
+    "text": "Ceph"
+  },
+  {
+    "text": "CERN-HSF"
+  },
+  {
+    "text": "CHAOSS"
+  },
+  {
+    "text": "Chromium"
+  },
+  {
+    "text": "CRIU"
+  },
+  {
+    "text": "DBpedia"
+  },
+  {
+    "text": "Debian"
+  },
+  {
+    "text": "Department of Biomedical Informatics, Emory University"
+  },
+  {
+    "text": "Fortran-lang"
+  }
+]
+
+console.log(jsonData);
+VM60:9 [
+  {
+    "text": "FOSSology"
+  },
+  {
+    "text": "freifunk"
+  },
+  {
+    "text": "Gentoo Foundation"
+  },
+  {
+    "text": "Global Alliance for Genomics and Health"
+  },
+  {
+    "text": "GRAME"
+  },
+  {
+    "text": "INCF"
+  },
+  {
+    "text": "Inkscape"
+  },
+  {
+    "text": "Internet Health Report"
+  },
+  {
+    "text": "Kart Project"
+  },
+  {
+    "text": "Kodi"
+  },
+  {
+    "text": "LibreHealth"
+  },
+  {
+    "text": "LibreOffice"
+  },
+  {
+    "text": "Machine Learning for Science (ML4SCI)"
+  },
+  {
+    "text": "MariaDB"
+  },
+  {
+    "text": "Mathesar"
+  },
+  {
+    "text": "Matrix.org"
+  },
+  {
+    "text": "Mayor's Office of New Urban Mechanics"
+  },
+  {
+    "text": "MetaBrainz Foundation Inc"
+  },
+  {
+    "text": "moja global"
+  },
+  {
+    "text": "National Resource for Network Biology (NRNB)"
+  },
+  {
+    "text": "NumFOCUS"
+  },
+  {
+    "text": "omegaUp"
+  },
+  {
+    "text": "Open Chemistry"
+  },
+  {
+    "text": "Open Genome Informatics"
+  },
+  {
+    "text": "OpenAFS"
+  },
+  {
+    "text": "openSUSE Project"
+  },
+  {
+    "text": "OpenVINO Toolkit"
+  },
+  {
+    "text": "OpenWISP"
+  },
+  {
+    "text": "Oppia Foundation"
+  },
+  {
+    "text": "Our World In Data"
+  },
+  {
+    "text": "OWASP Foundation"
+  },
+  {
+    "text": "PostgreSQL"
+  },
+  {
+    "text": "Processing Foundation"
+  },
+  {
+    "text": "QEMU"
+  },
+  {
+    "text": "Red Hen Lab"
+  },
+  {
+    "text": "Responsible AI and Human Centred Technology"
+  },
+  {
+    "text": "Rizin"
+  },
+  {
+    "text": "SCoRe Lab"
+  },
+  {
+    "text": "ScummVM"
+  },
+  {
+    "text": "sktime"
+  },
+  {
+    "text": "Society for Arts and Technology (SAT)"
+  },
+  {
+    "text": "Software Heritage"
+  },
+  {
+    "text": "SPDX"
+  },
+  {
+    "text": "Sugar Labs"
+  },
+  {
+    "text": "Synfig"
+  },
+  {
+    "text": "Tarantool"
+  },
+  {
+    "text": "The Honeynet Project"
+  },
+  {
+    "text": "The Tor Project"
+  },
+  {
+    "text": "TianoCore"
+  },
+  {
+    "text": "UC OSPO"
+  }
+]
+
+console.log(jsonData);
+VM64:9 [
+  {
+    "text": "Weaviate"
+  },
+  {
+    "text": "Wellcome Sanger Tree of Life"
+  },
+  {
+    "text": "Wikimedia Foundation"
+  },
+  {
+    "text": "Zulip"
+  },
+  {
+    "text": "Open Technologies Alliance - GFOSS"
+  },
+  {
+    "text": "TensorFlow"
+  },
+  {
+    "text": "The Julia Language"
+  },
+  {
+    "text": "mlpack"
+  },
+  {
+    "text": "LEAP Encryption Access Project"
+  },
+  {
+    "text": "Casbin"
+  },
+  {
+    "text": "LLVM Compiler Infrastructure"
+  },
+  {
+    "text": "Polypheny"
+  },
+  {
+    "text": "Open Robotics"
+  },
+  {
+    "text": "GNU Image Manipulation Program"
+  },
+  {
+    "text": "FFmpeg"
+  },
+  {
+    "text": "Cuneiform Digital Library Initiative (CDLI)"
+  },
+  {
+    "text": "Joplin"
+  },
+  {
+    "text": "libcamera"
+  },
+  {
+    "text": "AnkiDroid"
+  },
+  {
+    "text": "FreeType"
+  },
+  {
+    "text": "FRRouting"
+  },
+  {
+    "text": "Unikraft"
+  },
+  {
+    "text": "OpenStreetMap"
+  },
+  {
+    "text": "Jenkins"
+  },
+  {
+    "text": "The FreeBSD Project"
+  },
+  {
+    "text": "MuseScore"
+  },
+  {
+    "text": "SeaQL"
+  },
+  {
+    "text": "Flashrom"
+  },
+  {
+    "text": "rocket.chat"
+  },
+  {
+    "text": "CCExtractor Development"
+  },
+  {
+    "text": "RADAR-base"
+  },
+  {
+    "text": "International Catrobat Association"
+  }
+]
+undefined

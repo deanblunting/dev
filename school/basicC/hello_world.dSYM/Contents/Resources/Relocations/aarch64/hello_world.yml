@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dean/dev/school/basicC/hello_world'
+relocations:     []
+...

@@ -1,0 +1,186 @@
+Common elements found in multiple files:
+'console.log(jsonData);' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'{' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Django Software Foundation"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'},' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "LibreCube Initiative"' found in: 2022.log, 2021.log
+'"text": "MDAnalysis"' found in: 2020.log, 2022.log, 2023.log, 2021.log
+'"text": "Python Software Foundation"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Plone Foundation"' found in: 2022.log, 2023.log
+'"text": "SymPy"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Wagtail"' found in: 2022.log, 2023.log
+'"text": "SageMath"' found in: 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "RoboComp"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2021.log
+'"text": "Genome Assembly and Annotation"' found in: 2022.log, 2023.log, 2021.log
+'"text": "OpenCV"' found in: 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Metasploit"' found in: 2018.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "BRL-CAD"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Orcasound"' found in: 2022.log, 2020.log, 2021.log
+'"text": "The ns-3 Network Simulator Project"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "JdeRobot"' found in: 2022.log, 2023.log
+'"text": "MBDyn"' found in: 2022.log, 2020.log, 2021.log
+'"text": "Submitty"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log
+'"text": "OpenAstronomy"' found in: 2020.log, 2022.log, 2023.log, 2018.log
+'"text": "GNU Radio"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "syslog-ng"' found in: 2022.log, 2020.log, 2021.log, 2019.log
+'"text": "GeomScale"' found in: 2020.log, 2022.log, 2023.log, 2021.log
+'"text": "MetaCall"' found in: 2022.log, 2023.log, 2021.log
+'"text": "The Libreswan Project"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2021.log
+'"text": "Open Food Facts"' found in: 2022.log, 2018.log
+'"text": "MoveIt"' found in: 2020.log, 2022.log, 2023.log, 2021.log
+'"text": "OSGeo (Open Source Geospatial Foundation)"' found in: 2022.log, 2023.log
+'"text": "TARDIS RT Collaboration"' found in: 2022.log, 2023.log
+'"text": "Learning Equality"' found in: 2022.log, 2023.log, 2021.log
+'"text": "RTEMS Project"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Open Bioinformatics Foundation (OBF)"' found in: 2022.log, 2020.log
+'"text": "AboutCode"' found in: 2022.log, 2023.log, 2021.log
+'"text": "AOSSIE"' found in: 2020.log, 2022.log, 2023.log
+'"text": "ArduPilot"' found in: 2018.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Blender Foundation"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Ceph"' found in: 2022.log, 2023.log, 2021.log
+'"text": "CERN-HSF"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "CHAOSS"' found in: 2022.log, 2020.log, 2019.log
+'"text": "Chromium"' found in: 2022.log, 2023.log, 2021.log
+'"text": "CRIU"' found in: 2022.log, 2023.log, 2021.log
+'"text": "DBpedia"' found in: 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Debian"' found in: 2022.log, 2020.log, 2021.log, 2019.log
+'"text": "Department of Biomedical Informatics, Emory University"' found in: 2022.log, 2023.log
+'"text": "Fortran-lang"' found in: 2022.log, 2023.log, 2021.log
+'}' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+']' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "FOSSology"' found in: 2020.log, 2022.log, 2023.log, 2021.log
+'"text": "freifunk"' found in: 2018.log, 2019.log, 2022.log, 2023.log, 2021.log
+'"text": "Gentoo Foundation"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Global Alliance for Genomics and Health"' found in: 2018.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "GRAME"' found in: 2022.log, 2023.log
+'"text": "INCF"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Inkscape"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Internet Health Report"' found in: 2022.log, 2023.log
+'"text": "Kodi"' found in: 2022.log, 2021.log
+'"text": "LibreHealth"' found in: 2020.log, 2022.log, 2023.log, 2021.log
+'"text": "LibreOffice"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Machine Learning for Science (ML4SCI)"' found in: 2022.log, 2023.log
+'"text": "MariaDB"' found in: 2022.log, 2023.log
+'"text": "Mathesar"' found in: 2022.log, 2023.log
+'"text": "Matrix.org"' found in: 2022.log, 2021.log, 2019.log, 2018.log
+'"text": "Mayor's Office of New Urban Mechanics"' found in: 2022.log, 2023.log
+'"text": "MetaBrainz Foundation Inc"' found in: 2022.log, 2023.log, 2021.log, 2019.log
+'"text": "National Resource for Network Biology (NRNB)"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "NumFOCUS"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "omegaUp"' found in: 2022.log, 2023.log
+'"text": "Open Chemistry"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Open Genome Informatics"' found in: 2020.log, 2022.log, 2023.log, 2021.log
+'"text": "openSUSE Project"' found in: 2020.log, 2022.log, 2023.log, 2021.log
+'"text": "OpenVINO Toolkit"' found in: 2022.log, 2023.log
+'"text": "OpenWISP"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Oppia Foundation"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "OWASP Foundation"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "PostgreSQL"' found in: 2022.log, 2023.log, 2021.log, 2018.log
+'"text": "Processing Foundation"' found in: 2020.log, 2022.log, 2023.log, 2021.log
+'"text": "QEMU"' found in: 2022.log, 2023.log, 2021.log
+'"text": "Red Hen Lab"' found in: 2018.log, 2019.log, 2022.log, 2023.log, 2021.log
+'"text": "Rizin"' found in: 2022.log, 2023.log, 2021.log
+'"text": "SCoRe Lab"' found in: 2020.log, 2022.log, 2023.log, 2021.log
+'"text": "ScummVM"' found in: 2022.log, 2023.log
+'"text": "Society for Arts and Technology (SAT)"' found in: 2022.log, 2023.log
+'"text": "Software Heritage"' found in: 2022.log, 2021.log, 2019.log
+'"text": "SPDX"' found in: 2018.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Sugar Labs"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Synfig"' found in: 2020.log, 2022.log, 2023.log, 2021.log
+'"text": "Tarantool"' found in: 2022.log, 2021.log
+'"text": "The Honeynet Project"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "The Tor Project"' found in: 2022.log, 2023.log
+'"text": "TianoCore"' found in: 2022.log, 2021.log
+'"text": "UC OSPO"' found in: 2022.log, 2023.log
+'"text": "Wikimedia Foundation"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Zulip"' found in: 2018.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Open Technologies Alliance - GFOSS"' found in: 2022.log, 2023.log
+'"text": "TensorFlow"' found in: 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "The Julia Language"' found in: 2022.log, 2023.log
+'"text": "mlpack"' found in: 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "LEAP Encryption Access Project"' found in: 2022.log, 2018.log
+'"text": "Casbin"' found in: 2022.log, 2020.log, 2021.log
+'"text": "LLVM Compiler Infrastructure"' found in: 2022.log, 2023.log
+'"text": "Open Robotics"' found in: 2022.log, 2023.log, 2021.log
+'"text": "GNU Image Manipulation Program"' found in: 2022.log, 2023.log
+'"text": "FFmpeg"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log
+'"text": "Cuneiform Digital Library Initiative (CDLI)"' found in: 2022.log, 2020.log, 2021.log, 2019.log
+'"text": "Joplin"' found in: 2022.log, 2020.log, 2021.log
+'"text": "libcamera"' found in: 2022.log, 2023.log, 2021.log
+'"text": "AnkiDroid"' found in: 2022.log, 2021.log
+'"text": "FreeType"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "FRRouting"' found in: 2022.log, 2020.log, 2021.log
+'"text": "Unikraft"' found in: 2022.log, 2023.log
+'"text": "OpenStreetMap"' found in: 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "Jenkins"' found in: 2022.log, 2023.log
+'"text": "The FreeBSD Project"' found in: 2022.log, 2023.log
+'"text": "MuseScore"' found in: 2022.log, 2023.log, 2021.log
+'"text": "rocket.chat"' found in: 2022.log, 2023.log
+'"text": "CCExtractor Development"' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "International Catrobat Association"' found in: 2022.log, 2023.log, 2021.log
+'undefined' found in: 2018.log, 2019.log, 2022.log, 2020.log, 2023.log, 2021.log
+'"text": "caMicroscope"' found in: 2020.log, 2023.log, 2021.log
+'"text": "gprMax"' found in: 2023.log, 2021.log, 2019.log
+'"text": "Software and Computational Systems Lab at LMU Munich"' found in: 2023.log, 2018.log, 2019.log
+'"text": "CloudCV"' found in: 2018.log, 2019.log, 2020.log, 2023.log, 2021.log
+'"text": "Kiwix"' found in: 2018.log, 2019.log, 2020.log, 2023.log, 2021.log
+'"text": "Apertium"' found in: 2018.log, 2019.log, 2020.log, 2023.log, 2021.log
+'"text": "Creative Commons"' found in: 2020.log, 2023.log, 2019.log
+'"text": "Internet Archive"' found in: 2018.log, 2019.log, 2020.log, 2023.log, 2021.log
+'"text": "Pitivi"' found in: 2020.log, 2023.log, 2021.log, 2019.log
+'"text": "Pharo Consortium"' found in: 2023.log, 2021.log, 2019.log
+'"text": "mypy"' found in: 2020.log, 2021.log
+'"text": "OpenMined"' found in: 2020.log, 2021.log
+'"text": "Digital Impact Alliance (DIAL) at UN Foundation"' found in: 2020.log, 2021.log
+'"text": "JdeRobot - Universidad Rey Juan Carlos"' found in: 2020.log, 2021.log, 2019.log, 2018.log
+'"text": "MGGG Redistricting Lab"' found in: 2020.log, 2021.log
+'"text": "AerospaceResearch.net"' found in: 2020.log, 2021.log, 2019.log, 2018.log
+'"text": "Open Bioinformatics Foundation"' found in: 2021.log, 2019.log, 2018.log
+'"text": "SymbiFlow"' found in: 2020.log, 2021.log, 2019.log
+'"text": "Chapel"' found in: 2020.log, 2021.log, 2019.log
+'"text": "FrameNet Brasil (UFJF)"' found in: 2020.log, 2021.log
+'"text": "Hydra Ecosystem"' found in: 2020.log, 2021.log, 2019.log
+'"text": "Libre Space Foundation"' found in: 2020.log, 2021.log, 2019.log
+'"text": "Liquid Galaxy project"' found in: 2020.log, 2021.log, 2019.log
+'"text": "Point Cloud Library"' found in: 2020.log, 2021.log
+'"text": "Qubes OS"' found in: 2020.log, 2021.log
+'"text": "STE||AR Group"' found in: 2021.log, 2018.log
+'"text": "coala"' found in: 2021.log, 2019.log, 2018.log
+'"text": "Haiku"' found in: 2020.log, 2021.log, 2019.log, 2018.log
+'"text": "LabLua"' found in: 2020.log, 2021.log, 2019.log, 2018.log
+'"text": "OpenMRS"' found in: 2020.log, 2021.log, 2019.log, 2018.log
+'"text": "Rocket.Chat"' found in: 2020.log, 2021.log, 2019.log, 2018.log
+'"text": "Canadian Centre for Computational Genomics"' found in: 2020.log, 2018.log
+'"text": "Open Source Robotics Foundation"' found in: 2020.log, 2018.log, 2019.log
+'"text": "AboutCode.org"' found in: 2020.log, 2019.log
+'"text": "BeagleBoard.org"' found in: 2020.log, 2019.log
+'"text": "GNOME"' found in: 2020.log, 2018.log, 2019.log
+'"text": "Kodi Foundation"' found in: 2020.log, 2019.log
+'"text": "MacPorts"' found in: 2020.log, 2019.log
+'"text": "MetaBrainz Foundation Inc."' found in: 2020.log, 2018.log
+'"text": "Mozilla"' found in: 2020.log, 2018.log, 2019.log
+'"text": "NV Access"' found in: 2020.log, 2019.log
+'"text": "OSGeo"' found in: 2020.log, 2018.log, 2019.log
+'"text": "PEcAn Project"' found in: 2020.log, 2019.log
+'"text": "Kapitan"' found in: 2020.log, 2019.log
+'"text": "Fedora Project"' found in: 2020.log, 2018.log, 2019.log
+'"text": "Moira"' found in: 2020.log, 2019.log
+'"text": "Percona"' found in: 2020.log, 2019.log
+'"text": "Intel Media And Audio For Linux"' found in: 2020.log, 2018.log, 2019.log
+'"text": "Catrobat"' found in: 2020.log, 2018.log, 2019.log
+'"text": "Checker Framework"' found in: 2020.log, 2018.log, 2019.log
+'"text": "The Processing Foundation"' found in: 2018.log, 2019.log
+'"text": "InterMine"' found in: 2018.log, 2019.log
+'"text": "Neovim"' found in: 2018.log, 2019.log
+'"text": "Developers Italia"' found in: 2018.log, 2019.log
+'"text": "TimVideos.us"' found in: 2018.log, 2019.log
+'"text": "CLiPS, University of Antwerp"' found in: 2018.log, 2019.log
+'"text": "aimacode"' found in: 2018.log, 2019.log
+'"text": "Digital Impact Alliance"' found in: 2018.log, 2019.log
+'"text": "FOSSASIA"' found in: 2018.log, 2019.log
+'"text": "Performance Co-Pilot"' found in: 2018.log, 2019.log
+'"text": "Read the Docs"' found in: 2018.log, 2019.log
+'"text": "UCSC Xena"' found in: 2018.log, 2019.log
+'"text": "appleseedhq"' found in: 2018.log, 2019.log
+'"text": "Moodle"' found in: 2018.log, 2019.log
+'"text": "JSK Robotics Laboratory / The University of Tokyo"' found in: 2018.log, 2019.log

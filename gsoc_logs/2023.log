@@ -1,0 +1,354 @@
+console.log(jsonData);
+VM4976:9 [
+  {
+    "text": "Django Software Foundation"
+  },
+  {
+    "text": "MDAnalysis"
+  },
+  {
+    "text": "Python Software Foundation"
+  },
+  {
+    "text": "Plone Foundation"
+  },
+  {
+    "text": "Jina AI"
+  },
+  {
+    "text": "SymPy"
+  },
+  {
+    "text": "Wagtail"
+  },
+  {
+    "text": "Ivy (lets-unify.ai)"
+  },
+  {
+    "text": "SageMath"
+  },
+  {
+    "text": "Invesalius"
+  },
+  {
+    "text": "Genome Assembly and Annotation"
+  },
+  {
+    "text": "caMicroscope"
+  },
+  {
+    "text": "FreeCAD"
+  },
+  {
+    "text": "OpenCV"
+  },
+  {
+    "text": "Metasploit"
+  },
+  {
+    "text": "BRL-CAD"
+  },
+  {
+    "text": "gprMax"
+  },
+  {
+    "text": "The ns-3 Network Simulator Project"
+  },
+  {
+    "text": "JdeRobot"
+  },
+  {
+    "text": "Submitty"
+  },
+  {
+    "text": "OpenAstronomy"
+  },
+  {
+    "text": "Software and Computational Systems Lab at LMU Munich"
+  },
+  {
+    "text": "GNU Radio"
+  },
+  {
+    "text": "GeomScale"
+  },
+  {
+    "text": "MetaCall"
+  },
+  {
+    "text": "MoveIt"
+  },
+  {
+    "text": "CloudCV"
+  },
+  {
+    "text": "OSGeo (Open Source Geospatial Foundation)"
+  },
+  {
+    "text": "Kiwix"
+  },
+  {
+    "text": "TARDIS RT Collaboration"
+  },
+  {
+    "text": "Learning Equality"
+  },
+  {
+    "text": "RTEMS Project"
+  },
+  {
+    "text": "AboutCode"
+  },
+  {
+    "text": "AOSSIE"
+  },
+  {
+    "text": "Apertium"
+  },
+  {
+    "text": "ArduPilot"
+  },
+  {
+    "text": "Blender Foundation"
+  },
+  {
+    "text": "Ceph"
+  },
+  {
+    "text": "CERN-HSF"
+  },
+  {
+    "text": "Chromium"
+  },
+  {
+    "text": "Cockpit Project"
+  },
+  {
+    "text": "Creative Commons"
+  },
+  {
+    "text": "CRIU"
+  },
+  {
+    "text": "DBpedia"
+  },
+  {
+    "text": "Department of Biomedical Informatics, Emory University"
+  },
+  {
+    "text": "FLARE"
+  },
+  {
+    "text": "Fortran-lang"
+  },
+  {
+    "text": "FOSSology"
+  },
+  {
+    "text": "freifunk"
+  },
+  {
+    "text": "GCP Scanner"
+  }
+]
+
+console.log(jsonData);
+VM4989:9 [
+  {
+    "text": "Gentoo Foundation"
+  },
+  {
+    "text": "Global Alliance for Genomics and Health"
+  },
+  {
+    "text": "GRAME"
+  },
+  {
+    "text": "INCF"
+  },
+  {
+    "text": "Inkscape"
+  },
+  {
+    "text": "Internet Archive"
+  },
+  {
+    "text": "Internet Health Report"
+  },
+  {
+    "text": "LibreHealth"
+  },
+  {
+    "text": "LibreOffice"
+  },
+  {
+    "text": "Machine Learning for Science (ML4SCI)"
+  },
+  {
+    "text": "MariaDB"
+  },
+  {
+    "text": "Mathesar"
+  },
+  {
+    "text": "Mayor's Office of New Urban Mechanics"
+  },
+  {
+    "text": "MetaBrainz Foundation Inc"
+  },
+  {
+    "text": "National Resource for Network Biology (NRNB)"
+  },
+  {
+    "text": "NumFOCUS"
+  },
+  {
+    "text": "omegaUp"
+  },
+  {
+    "text": "Open Chemistry"
+  },
+  {
+    "text": "Open Genome Informatics"
+  },
+  {
+    "text": "openSUSE Project"
+  },
+  {
+    "text": "OpenVINO Toolkit"
+  },
+  {
+    "text": "OpenWISP"
+  },
+  {
+    "text": "Oppia Foundation"
+  },
+  {
+    "text": "OWASP Foundation"
+  },
+  {
+    "text": "Pitivi"
+  },
+  {
+    "text": "PostgreSQL"
+  },
+  {
+    "text": "Processing Foundation"
+  },
+  {
+    "text": "Qdrant"
+  },
+  {
+    "text": "QEMU"
+  },
+  {
+    "text": "Red Hen Lab"
+  },
+  {
+    "text": "Rizin"
+  },
+  {
+    "text": "Scalable Parallel Computing Laboratory"
+  },
+  {
+    "text": "SCoRe Lab"
+  },
+  {
+    "text": "ScummVM"
+  },
+  {
+    "text": "Society for Arts and Technology (SAT)"
+  },
+  {
+    "text": "SPDX"
+  },
+  {
+    "text": "Stratosphere Laboratory, Czech Technical University in Prague"
+  },
+  {
+    "text": "Sugar Labs"
+  },
+  {
+    "text": "Synfig"
+  },
+  {
+    "text": "The Honeynet Project"
+  },
+  {
+    "text": "The Tor Project"
+  },
+  {
+    "text": "UC OSPO"
+  },
+  {
+    "text": "Wikimedia Foundation"
+  },
+  {
+    "text": "Zulip"
+  },
+  {
+    "text": "Open Technologies Alliance - GFOSS"
+  },
+  {
+    "text": "TensorFlow"
+  },
+  {
+    "text": "The Julia Language"
+  },
+  {
+    "text": "mlpack"
+  },
+  {
+    "text": "LLVM Compiler Infrastructure"
+  },
+  {
+    "text": "Open Robotics"
+  }
+]
+
+console.log(jsonData);
+VM4999:9 [
+  {
+    "text": "Carbon Language"
+  },
+  {
+    "text": "GNU Image Manipulation Program"
+  },
+  {
+    "text": "FFmpeg"
+  },
+  {
+    "text": "Pharo Consortium"
+  },
+  {
+    "text": "libcamera"
+  },
+  {
+    "text": "FreeType"
+  },
+  {
+    "text": "Unikraft"
+  },
+  {
+    "text": "OpenStreetMap"
+  },
+  {
+    "text": "Jenkins"
+  },
+  {
+    "text": "The FreeBSD Project"
+  },
+  {
+    "text": "MuseScore"
+  },
+  {
+    "text": "rocket.chat"
+  },
+  {
+    "text": "CCExtractor Development"
+  },
+  {
+    "text": "International Catrobat Association"
+  }
+]
+undefined
