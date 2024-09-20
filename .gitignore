@@ -2,3 +2,4 @@
 .conda/
 .vscode/
 school/basicC/*dSYM/
+gsoc_logs/
