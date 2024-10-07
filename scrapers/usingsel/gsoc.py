@@ -17,6 +17,5 @@ orgs1 = driver.find_elements(By.CLASS_NAME, "name")
 for org in orgs1:
     print(org.text)
 
-driver.find_element(By.XPATH, "/html/body/app-root/app-layout/mat-sidenav-container/mat-sidenav-content[1]/div/div/main/app-organizations/app-orgs-grid/section[2]/div/mat-paginator/div/div/div[2]/button[2]").click()
 time.sleep(5)
 driver.quit()
